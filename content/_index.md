@@ -259,7 +259,7 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://x.com/sharechiwai'
         - icon: skype
           icon_pack: fab
           name: Skype Me
